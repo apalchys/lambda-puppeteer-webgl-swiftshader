@@ -1,0 +1,6 @@
+{
+    "name": "lambda-puppeteer-webgl-swfitshader",
+    "dependencies": {
+        "puppeteer": "1.7.0"
+    }
+}
